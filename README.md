@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi 👋
+
+Full-stack Web3 & smart contract engineer focusing on Account Abstraction, cross-chain messaging, and on-chain data indexing. Always aiming to modularize complex protocol logic. Open to collaboration.
